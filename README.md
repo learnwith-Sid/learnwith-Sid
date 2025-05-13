@@ -21,7 +21,17 @@ A parent-teacher communication portal with real-time messaging, multi-tenancy, a
 - Built using **.NET Core Web API**, **React**, and **SignalR** for real-time communication
 - Deployed on **Azure** with CI/CD pipelines
 
+### 2. **[BankFlix](https://github.com/BugingtheCode/BankFlix)**
+a gamified banking experience that rewards consistency! This SwiftUI module encourages users to log in daily, complete financial literacy challenges, and earn reward points, badges, and even unlock new avatars.
+## 📱 Features
 
+- 🗓️ **Daily Login Streak** tracking with milestone indicators  
+- 🎁 **Reward Points** system for completing streaks and challenges  
+- 🏅 **Badge Unlocks** for consistency and progress  
+- 🦁 **Avatar Customization** — unlock new avatars at streak milestones (3, 5, 7, 10 days)  
+- 📘 **Financial Resources** like guides and savings tips  
+- 📈 **Weekend Bonus**: Unlock investment guides on weekends  
+- 🎯 Motivational messages and progress highlights
 
 ---
 
