@@ -16,12 +16,12 @@ Welcome to my GitHub! I’m Sid, a passionate software engineer with over **9 ye
 
 ## 🚀 Featured Projects
 
-### 1. **[EduNexus](https://github.com/BugingtheCode/EduNexus)**
+### 1. **[EduNexus](https://github.com/learnwith-Sid/EduNexus)**
 A parent-teacher communication portal with real-time messaging, multi-tenancy, and secure JWT authentication.
 - Built using **.NET Core Web API**, **React**, and **SignalR** for real-time communication
 - Deployed on **Azure** with CI/CD pipelines
 
-### 2. **[BankFlix](https://github.com/BugingtheCode/BankFlix)**
+### 2. **[BankFlix](https://github.com/learnwith-Sid/BankFlix)**
 a gamified banking experience that rewards consistency! This SwiftUI module encourages users to log in daily, complete financial literacy challenges, and earn reward points, badges, and even unlock new avatars.
 ## 📱 Features
 
